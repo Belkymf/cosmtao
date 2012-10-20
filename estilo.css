@@ -1,0 +1,21 @@
+body{
+	background: #6699CC;
+	width: 90%;
+	margin: 0 auto;
+	}
+	#menu{
+		background: #99CCFF;
+				}
+
+				#menu li{
+					display: inline-block;
+					padding-right: 5px;
+					}
+					#menu li:hover{
+						background: #0000FF;
+
+}
+#menu li a{
+	text-decoration: none;
+	color: black;
+	}
